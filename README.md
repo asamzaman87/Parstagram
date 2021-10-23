@@ -23,4 +23,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://g.recordit.co/FkYZGJzFUa.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/d70rQs56Uw.gif' title='Video Walkthrough1' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/mbQRaAC43K.gif' title='Video Walkthrough2' width='' alt='Video Walkthrough' />
