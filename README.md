@@ -22,7 +22,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://g.recordit.co/lvlNXqrv2X.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src=''http://g.recordit.co/VpYL1K0Uxg.gif'' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 # Parstagram - Part I
@@ -50,5 +50,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://g.recordit.co/VpYL1K0Uxg.gif' title='Video Walkthrough1' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/mbQRaAC43K.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/d70rQs56Uw.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+ 
 
